@@ -1,0 +1,4 @@
+REPORT COLLAUDO: R02 Sostituzione cuscinetto Nastro trasportatore - collaudo effettuato
+--------------------
+REPORT COLLAUDO: R03 Controllo motore Sistema ventilazione - nessun collaudo necessario
+--------------------
